@@ -1,0 +1,21 @@
+{
+  "name": "w3w4lk0ncjiouds - Links Hub",
+  "short_name": "w3w4lk0n",
+  "description": "Personal links and donations page for w3w4lk0ncjiouds",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0a0a0a",
+  "theme_color": "#dc2626",
+  "icons": [
+    {
+      "src": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTkyIiBoZWlnaHQ9IjE5MiIgdmlld0JveD0iMCAwIDE5MiAxOTIiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CjxyZWN0IHdpZHRoPSIxOTIiIGhlaWdodD0iMTkyIiByeD0iMzIiIGZpbGw9IiMwYTBhMGEiLz4KPHA+aCBkPSJNNDggNDhIOTZWMTQ0SDQ4VjQ4WiIgZmlsbD0iI2RjMjYyNiIvPgo8cGF0aCBkPSJNOTYgNDhIMTQ0VjE0NEg5NlY0OFoiIGZpbGw9IiNkYzI2MjYiLz4KPC9zdmc+",
+      "sizes": "192x192",
+      "type": "image/svg+xml"
+    },
+    {
+      "src": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNTEyIiBoZWlnaHQ9IjUxMiIgdmlld0JveD0iMCAwIDUxMiA1MTIiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CjxyZWN0IHdpZHRoPSI1MTIiIGhlaWdodD0iNTEyIiByeD0iODQiIGZpbGw9IiMwYTBhMGEiLz4KPHA+aCBkPSJNMTI4IDEyOEgyNTZWMzg0SDEyOFYxMjhaIiBmaWxsPSIjZGMyNjI2Ii8+CjxwYXRoIGQ9Ik0yNTYgMTI4SDM4NFYzODRIMjU2VjEyOFoiIGZpbGw9IiNkYzI2MjYiLz4KPC9zdmc+",
+      "sizes": "512x512",
+      "type": "image/svg+xml"
+    }
+  ]
+}
